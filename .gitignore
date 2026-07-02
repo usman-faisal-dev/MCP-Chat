@@ -1,4 +1,6 @@
 .env
 __pycache__
+*.pyc
 .venv
-.DS_Storeapp.egg-info/
+.DS_Store
+app.egg-info/
